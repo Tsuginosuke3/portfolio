@@ -1,0 +1,47 @@
+.header-logo{font-size:50px;
+    float:inherit;
+    
+}
+
+
+.header-logo{
+    color:seagreen;
+    text-align: center;
+    font-family:sans-serif;
+}
+
+.Hawaii.jpg{
+    height:70px
+    width:70px;
+}
+
+.twitter{
+  font-size:3em;
+ color:deepskyblue;
+}
+
+.Instagram{
+    font-size:3em;
+    color:deeppink;
+}
+
+.copy-container h1{
+    text-align: center;
+}
+
+.copy-container h2{
+    text-align: center;
+    font-size:
+}
+
+.contact-form{
+    padding-top:100px;
+}
+
+.section-title{
+    text-align: center;
+}
+
+.section-title p{
+    padding-left: 50px;
+}
